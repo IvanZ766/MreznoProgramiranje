@@ -1,0 +1,76 @@
+[START] Server started
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[INFO] Active users: 0
+[CONNECT] ('127.0.0.1', 43926)
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[LOGIN] Ivan
+Ivan: Hello
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+Ivan: hello
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[INFO] Active users: 1
+[START] Server started
+[INFO] Active users: 0
+[CONNECT] ('127.0.0.1', 36772)
+[LOGIN] Ivan
+[INFO] Active users: 1
+Ivan: Hello
+[DISCONNECT] Ivan
